@@ -4,7 +4,5 @@
 
 ### Hi there, It's Burak 👋
 
-[**I'm statistics student at METU**
-](https://burakyener-portfolio.web.app/
-)
+https://burakyener-portfolio.web.app/
 

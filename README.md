@@ -4,5 +4,4 @@
 
 ### Hi there, It's Burak 👋
 
-https://burakyener-portfolio.web.app/
-
+[My Personal Page](https://burakyener-portfolio.web.app/)
